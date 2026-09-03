@@ -1,4 +1,4 @@
-# ECE-2112 - Programming Assignment 1
+# ECE-2112 - Programming Assignment 2
 **By: Macni, Julian Diether J. | 2ECE-B**
 ### Overview
 This repository contains the Programming Assignment 2 for ECE 2112 - Advanced Computer Programming and Algorithms. The problems for this assignment covers Module 2, which covers concepts related to the NumPy library such as arrays and how they can be created and edited.
